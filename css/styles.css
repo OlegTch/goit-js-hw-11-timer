@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(163, 163, 154);
+}
+
+.timer {
+  margin: 10px auto;
+  display: flex;
+  flex-flow: row wrap;
+  width: 80%;
+  justify-content: space-between;
+  border: 1px solid blue;
+  padding: 100px;
+
+  background-color: #9e8d94;
+}
+
+.field {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  border: 1px solid blue;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 30px;
+  background-color: #6c9274;
+}
